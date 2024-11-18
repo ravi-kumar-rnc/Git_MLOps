@@ -1,1 +1,2 @@
 # Git Tutorial
+# Practice examples of merge and conflict resolution
